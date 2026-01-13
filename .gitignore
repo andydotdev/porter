@@ -1,4 +1,4 @@
-stemmer
+cmd/stemmer/stemmer
 out/
 *.6
 _obj
